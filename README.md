@@ -1,4 +1,4 @@
-# Hi 👋, I'm Darshan
+#                                                   Hi 👋, I'm Darshan
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Web+Developer;Learning+DSA;Building+Real-world+Projects;Future+Software+Engineer)
 
