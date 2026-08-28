@@ -11,6 +11,7 @@
 ## 💫 About Me
 - 🎓 Student
 - 💻 Learning Web Development
+- 🔐 Learning Cybersecurity
 - 🌱 Currently learning Git & GitHub
 - 🚀 Building small projects to practice
 - ⚡ Future goal: Software Developer
@@ -18,7 +19,7 @@
 ---
 
 ## 🛠 Tech Stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,git,github)
+![Skills](https://skillicons.dev/icons?i=html,java,python,c,css,js,git,github)
 
 ---
 
@@ -35,3 +36,4 @@
 ## 🌐 Connect With Me
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Darshankumar700401)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:darshankumar700401@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/darshan-k-1039513a3/)
