@@ -5,7 +5,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Darshankumar700401&label=VISITORS&color=blue&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Darshankumar700401?label=Followers&style=for-the-badge&color=green)
 ![Stars](https://img.shields.io/github/stars/Darshankumar700401?label=Stars&style=for-the-badge&color=yellow)
-
+![java](https://img.shields.io/github/stars/Darshankumar700401?label=java&style=for-the-badge&color=blue)
 ---
 
 ## 💫 About Me
